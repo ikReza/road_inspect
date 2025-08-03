@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+cvzone
+langchain
+langchain-google-genai
+numpy
+python-dotenv
+python-docx
+pillow
